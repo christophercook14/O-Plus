@@ -1,0 +1,14 @@
+{
+  "name": "O-Plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "o-plus.js",
+  "scripts": {
+    "start": "nodemon demonstration.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
