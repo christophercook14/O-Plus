@@ -9,7 +9,6 @@ Clone the repo and install dependencies.
 ```bash
 $ cd o-plus
 $ npm install
-$ node app
 ```
 
 To experiment with the library, run npm start inside the directory and edit the demonstration.js file.
